@@ -1,2 +1,3 @@
 # project-5246
-open research topic discussion
+This respo is open for research topic discussion.
+And the issue paner is for Q&A.
